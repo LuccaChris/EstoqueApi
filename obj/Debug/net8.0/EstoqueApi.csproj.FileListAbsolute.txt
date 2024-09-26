@@ -1,0 +1,7 @@
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.csproj.AssemblyReference.cache
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.AssemblyInfoInputs.cache
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.AssemblyInfo.cs
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.csproj.CoreCompileInputs.cache
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TI Rodonaves\Desktop\EstoqueApi\obj\Debug\net8.0\EstoqueApi.MvcApplicationPartsAssemblyInfo.cache
