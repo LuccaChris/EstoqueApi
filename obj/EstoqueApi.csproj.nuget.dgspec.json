@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TI Rodonaves\\Desktop\\EstoqueApi\\EstoqueApi.csproj": {}
+    "C:\\Users\\207.cllamaral\\Documents\\GitHub\\EstoqueApi\\EstoqueApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TI Rodonaves\\Desktop\\EstoqueApi\\EstoqueApi.csproj": {
+    "C:\\Users\\207.cllamaral\\Documents\\GitHub\\EstoqueApi\\EstoqueApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TI Rodonaves\\Desktop\\EstoqueApi\\EstoqueApi.csproj",
+        "projectUniqueName": "C:\\Users\\207.cllamaral\\Documents\\GitHub\\EstoqueApi\\EstoqueApi.csproj",
         "projectName": "EstoqueApi",
-        "projectPath": "C:\\Users\\TI Rodonaves\\Desktop\\EstoqueApi\\EstoqueApi.csproj",
-        "packagesPath": "C:\\Users\\TI Rodonaves\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TI Rodonaves\\Desktop\\EstoqueApi\\obj\\",
+        "projectPath": "C:\\Users\\207.cllamaral\\Documents\\GitHub\\EstoqueApi\\EstoqueApi.csproj",
+        "packagesPath": "C:\\Users\\207.cllamaral\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\207.cllamaral\\Documents\\GitHub\\EstoqueApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\TI Rodonaves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\207.cllamaral\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -78,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
